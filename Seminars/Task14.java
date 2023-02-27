@@ -27,7 +27,6 @@ public class Task14 {
                 System.out.println(list);
             } else {
                 list.push(inputString);
-                // System.out.println(list);
             }
         }
 
